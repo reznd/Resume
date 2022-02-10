@@ -1,2 +1,2 @@
 # Resume
-An RESUME dev in python using streamlit
+a RESUME dev in python using streamlit
